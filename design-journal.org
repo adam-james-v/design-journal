@@ -1,0 +1,13 @@
+* Design Journal
+A project for iterating on design ideas and projects. It's a mixed bag of whatever I want to work on, to varying degrees of completeness. As designs solidify, they may be sliced out and moved to their own dedicated projects.
+
+* Tech and Tools
+Use Forge CLJ library for the most part. Use SVG-CLJ and CLJS projects for interactive sites as examples and configurator front ends too.
+
+Connect Forge with OpenSCAD for ease of iteration and distribution.
+Connect Forge with FreeDAD for better support of 'real engineering' workflows.
+
+* Goals
+Use this to keep my design and engineering skills and habits up to date. Consider this to be a place for deliberate practice.
+
+Also, I want to use design, tech, and engineering to (potentially) help with solving climate crisis problems. I can't do it all, but I can't accept the status quo and am compelled to do something. This is a 'scratchpad' start to that sort of thinking.
